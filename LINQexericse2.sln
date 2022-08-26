@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQexericse2", "LINQexericse2\LINQexericse2.csproj", "{16B8FA27-631B-4C22-9B6B-46D0C9B26611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B8FA27-631B-4C22-9B6B-46D0C9B26611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B8FA27-631B-4C22-9B6B-46D0C9B26611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B8FA27-631B-4C22-9B6B-46D0C9B26611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B8FA27-631B-4C22-9B6B-46D0C9B26611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F22BF50-5AED-4D7D-BBD1-71F348EE151B}
+	EndGlobalSection
+EndGlobal
